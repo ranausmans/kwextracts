@@ -2,4 +2,7 @@ streamlit
 sentence-transformers
 keybert
 transformers
-streamlit
+spacy
+wordcloud
+gTTS
+matplotlib
